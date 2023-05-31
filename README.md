@@ -10,6 +10,5 @@ The best model to predict client’s repayment abilities is Random Forest model.
 Tool: Python.
 
 Documentation
-
 Lab : https://bit.ly/HSCMbyAbrilian
 Github : https://github.com/abrilian/Home-Credit-Score-Card-Model/
