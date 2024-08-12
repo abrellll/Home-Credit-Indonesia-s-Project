@@ -10,4 +10,4 @@ The best model to predict client’s repayment abilities is Random Forest model.
 Tool: Python.
 
 **Documentation**
-Click on [this](https://colab.research.google.com/drive/1V3PxWrtBtKgPKQeH-p480ZbnHdfLHzZC?usp=sharing) if you would like to go further to the notebook.
+Click on [this](https://colab.research.google.com/drive/10AspcpxGXrDdeaZw9MfT2CwpzdIyC5eC?usp=sharing) if you would like to go further to the notebook.
