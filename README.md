@@ -1,4 +1,4 @@
-# Home-Credit-Score-Card-Model
+# Prediction analysis of client's ability to pay loans using Random Forest Classifier
 Created by Abrilian Maulidhia
 
 **Objectives:**
