@@ -1,4 +1,4 @@
-# Prediction analysis of client's ability to pay loans using Random Forest Classifier
+# Prediction Analysis of Client's Ability to Pay Loans using Random Forest Classifier
 Created by Abrilian Maulidhia
 
 **Objectives:**
